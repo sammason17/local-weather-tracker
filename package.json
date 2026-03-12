@@ -1,5 +1,5 @@
 {
-  "name": "anglesey-weather-tracker",
+  "name": "local-weather-tracker",
   "version": "0.1.0",
   "private": true,
   "scripts": {

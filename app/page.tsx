@@ -82,9 +82,9 @@ export default function Home() {
         <div className="mb-8">
           <div className="flex items-center gap-3 mb-2">
             <span className="text-4xl">🌤️</span>
-            <h1 className="text-3xl font-bold text-white tracking-tight">Anglesey Weather Tracker</h1>
+            <h1 className="text-3xl font-bold text-white tracking-tight">Local Weather Tracker</h1>
           </div>
-          <p className="text-slate-400 text-sm">Hyperlocal forecast for ///revise.spouting.visa — Llanfechell area, Anglesey</p>
+          <p className="text-slate-400 text-sm">Hyperlocal forecast for localised reports</p>
         </div>
 
         <Suspense fallback={

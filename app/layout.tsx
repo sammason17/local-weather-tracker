@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Anglesey Weather Tracker',
-  description: 'Hyperlocal weather for Anglesey',
+  title: 'Local Weather Tracker',
+  description: 'Hyperlocal weather for Local coordinates',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

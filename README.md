@@ -1,6 +1,6 @@
-# 🌤️ Anglesey Weather Tracker
+# 🌤️ Lnglesey Weather Tracker
 
-A Next.js single-page weather app for ///revise.spouting.visa (Llanfechell, Anglesey).
+A Next.js single-page weather app for generating localised reports
 
 ## Setup
 
