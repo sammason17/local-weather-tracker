@@ -23,7 +23,7 @@ export interface SeasonalDay {
 const MODELS = [
   { model: 'ecmwf_ifs09', label: 'ECMWF IFS' },
   { model: 'ukmo_seamless', label: 'Met Office' },
-  { model: 'ncep_gfs_seamless', label: 'NOAA GFS' },
+  { model: 'gfs_seamless', label: 'NOAA GFS' },
 ]
 
 export async function fetchWeekForecasts(coords: Coordinates): Promise<ModelForecast[]> {
