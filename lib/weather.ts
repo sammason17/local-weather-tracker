@@ -21,7 +21,7 @@ export interface SeasonalDay {
 }
 
 const MODELS = [
-  { model: 'ecmwf_ifs09', label: 'ECMWF IFS' },
+  { model: 'ecmwf_ifs', label: 'ECMWF IFS' },
   { model: 'ukmo_seamless', label: 'Met Office' },
   { model: 'gfs_seamless', label: 'NOAA GFS' },
 ]
